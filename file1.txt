@@ -1,2 +1,4 @@
 Hello every one
-I am adding one more line 
+I am adding one more line
+
+I am learning git  
